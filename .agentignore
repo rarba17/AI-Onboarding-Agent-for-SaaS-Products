@@ -1,0 +1,2 @@
+# Prevent AI agents from reading secrets
+.env

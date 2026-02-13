@@ -1,0 +1,17 @@
+# Environment secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Docker
+postgres_data/
+redis_data/
+
+# IDE
+.vscode/
+.idea/
+*.swp
